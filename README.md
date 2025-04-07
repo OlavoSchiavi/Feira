@@ -1,2 +1,1 @@
-# atividade-bruno
-Nomes: Rafaela e Olavo
+# FeiraTec
